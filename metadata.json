@@ -1,0 +1,6 @@
+{
+  "name": "BreedVision AI",
+  "description": "BreedVision AI combines high-precision computer vision and Gemini intelligence to identify indigenous livestock breeds, assess health indices, and offer comparative genetic analytics for agriculture.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
